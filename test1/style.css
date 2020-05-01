@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.img{
+    
+    width: 100%;
+    max-height: 450px;
+}
+
+.header-text{
+    color: #DAAE56;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+}
+
+.h1atext{
+    font-size: 35px;
+    font-family: 'Amatic SC', cursive;
+    color: lightcyan;
+}
+
+.h1text{
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+    color: cadetblue;
+}
+.container{
+    
+}
+
+body{
+  background-image: url(image/background.jfif);
+}
+
+.dp{
+    height: 300px;
+    width: 285px;
+    border-radius: 50%;
+    
+}
+
+.main{
+  margin-bottom: 50px;
+  height: 560px;
+  
+ 
+}
+
+.card{
+   box-shadow: darkgrey;
+  background-image: url(image/background.jfif);
+  border-radius: 50%;
+}
+
+.t{
+    padding-top: 10px;
+    background-image: url(image/hh.jpg);
+    color: olive;
+}
+
+.card-title{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+
+}
+.card-body{
+    background-color: darkslategray;
+    border-radius: 15%;
+}
+.hover:hover{
+   
+    color: lightblue;
+}
+
+.htext{
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.htext:hover{
+    color: lightcyan;
+}
+.col-lg-4{
+  
+}
